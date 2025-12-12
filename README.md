@@ -10,8 +10,8 @@ It demonstrates how to build a real-time, interruptible voice agent using Python
 
 This engine implements the core concepts discussed in the blog series:
 
-* **Part 1: Async Orchestration** – No blocking `while` loops. The brain, ears, and mouth run in parallel.
-* **Part 2: The Kill Switch (VAD)** – Uses **Silero VAD** (running locally on CPU) to detect human speech in milliseconds and manage turn-taking.
+[* **Part 1: Async Orchestration**](https://medium.com/@inceb1997/the-millisecond-matters-engineering-sota-voice-agents-16f32e457745) – No blocking `while` loops. The brain, ears, and mouth run in parallel.
+[* **Part 2: The Kill Switch (VAD)**](https://medium.com/@inceb1997/the-millisecond-matters-engineering-sota-voice-agents-16f32e457745) – Uses **Silero VAD** (running locally on CPU) to detect human speech in milliseconds and manage turn-taking.
 * **Part 3: Latency Masking** – Handles the "thinking time" of the LLM.
 
 **The Stack:**
