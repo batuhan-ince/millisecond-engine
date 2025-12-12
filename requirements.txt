@@ -1,0 +1,8 @@
+asyncio
+numpy
+pyaudio
+torch
+torchaudio
+openai
+python-dotenv
+colorama
