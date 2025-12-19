@@ -12,7 +12,7 @@ This engine implements the core concepts discussed in the blog series:
 
 * [**Part 1: Async Orchestration**](https://medium.com/@inceb1997/the-millisecond-matters-engineering-sota-voice-agents-16f32e457745) – No blocking `while` loops. The brain, ears, and mouth run in parallel.
 * [**Part 2: The Kill Switch (VAD)**](https://medium.com/@inceb1997/the-millisecond-matters-engineering-sota-voice-agents-16f32e457745) – Uses **Silero VAD** (running locally on CPU) to detect human speech in milliseconds and manage turn-taking.
-* **Part 3: Latency Masking** – Handles the "thinking time" of the LLM.
+* [**Part 3: Latency Masking**](https://medium.com/@inceb1997/part-3-the-brain-in-the-loop-llm-orchestration-tool-use-f04ae00423d3) – Handles the "thinking time" of the LLM.
 
 **The Stack:**
 * **Ears:** OpenAI Whisper API (Server-side for speed)
