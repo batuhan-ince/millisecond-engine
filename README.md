@@ -110,9 +110,9 @@ Read the full deep-dive on how this engine was designed:
 
 * **Part 1:** [The Millisecond War – Architecture of a Real-Time Voice Agent](https://medium.com/@inceb1997/the-millisecond-matters-engineering-sota-voice-agents-16f32e457745)
 * **Part 2:** [The Art of Interruption (VAD & Barge-in Logic)](https://medium.com/@inceb1997/part-2-the-art-of-interruption-vad-barge-in-logic-167e04b735a9)
-* **Part 3:** The Brain in the Loop (Latency Masking) 
-* **Part 4:** The Soul of the Voice (Prosody & Emotion)
-* **Part 5:** The Future (Audio-to-Audio)
+* **Part 3:** [The Brain in the Loop (Latency Masking)](https://medium.com/@inceb1997/part-3-the-brain-in-the-loop-llm-orchestration-tool-use-f04ae00423d3)
+* **Part 4:** [The Soul of the Voice (Prosody & Emotion)](https://medium.com/@inceb1997/part-4-the-soul-of-the-voice-prosody-cloning-emotions-fc0a4790bb00)
+* **Part 5:** [The Future (Audio-to-Audio)](https://medium.com/@inceb1997/part-5-the-future-audio-to-audio-omni-models-78deab0ffe3b)
 
 ---
 
